@@ -1,0 +1,2185 @@
+{
+  "version": 1,
+  "notes": "imdbId, poster, runtime, imdbRating and ratingAsOf are filled by scripts/resolve.js via OMDb. omdbTitle overrides the lookup title when it differs from the display title.",
+  "moods": {
+    "action": "Unhinged Action",
+    "sci-fi": "Bargain-Bin Sci-Fi",
+    "creature": "Rubber Monsters",
+    "horror": "Cursed Horror",
+    "earnest": "Dead Serious",
+    "weird": "Pure Bewilderment"
+  },
+  "movies": [
+    {
+      "id": "the-room",
+      "title": "The Room",
+      "year": 2003,
+      "tier": "classic",
+      "moods": [
+        "earnest"
+      ],
+      "tags": [
+        "vanity project",
+        "baffling dialogue",
+        "football in tuxedos"
+      ],
+      "headline": "One Man's Heart. One Man's Rooftop.",
+      "blurb": "Tommy Wiseau wrote, directed, financed and starred in a melodrama where subplots vanish mid-sentence and every line lands at the wrong angle. You'll laugh at the line readings, the random football, and the sheer conviction of it all.",
+      "imdbId": "tt0368226",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmNkMThiODYtZTAzMC00ODJkLTg5MmEtMWIyMGFlZDlkYmNlXkEyXkFqcGc@._V1_QL75_UY562_CR5,0,380,562_.jpg",
+      "runtime": 99,
+      "imdbRating": 3.6,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "troll-2",
+      "title": "Troll 2",
+      "year": 1990,
+      "tier": "classic",
+      "moods": [
+        "creature",
+        "weird"
+      ],
+      "tags": [
+        "zero trolls",
+        "vegetarian goblins",
+        "stunned acting"
+      ],
+      "headline": "Dinner Is Served. Run.",
+      "blurb": "An Italian crew directing an American cast who didn't speak the same language, and it shows in every gloriously off-key reaction. Burlap goblins, green food, and a family vacation nobody should take.",
+      "imdbId": "tt0105643",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzJkY2E0ZjEtYjQ4Yy00MmI3LWFhMGItZjllNmJhM2Y5NTBkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime": 95,
+      "imdbRating": 3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "miami-connection",
+      "title": "Miami Connection",
+      "year": 1987,
+      "tier": "classic",
+      "moods": [
+        "action"
+      ],
+      "tags": [
+        "taekwondo rock band",
+        "motorcycle ninjas",
+        "friendship anthems"
+      ],
+      "headline": "Friends Forever. Ninjas Never.",
+      "blurb": "A synth-rock band of orphaned taekwondo students takes on cocaine-dealing ninjas. The fights are earnest, the songs are about loyalty, and the vibe is pure wholesome chaos.",
+      "imdbId": "tt0092549",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MjcxMjYzNl5BMl5BanBnXkFtZTcwMTcyNDc1OA@@._V1_SX300.jpg",
+      "runtime": 87,
+      "imdbRating": 5.6,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "plan-9",
+      "title": "Plan 9 from Outer Space",
+      "year": 1957,
+      "tier": "classic",
+      "moods": [
+        "sci-fi",
+        "horror"
+      ],
+      "tags": [
+        "Ed Wood",
+        "day-for-night",
+        "wobbly saucers"
+      ],
+      "headline": "The Ninth Plan Is the Charm.",
+      "blurb": "Ed Wood's grave-robbing alien epic swaps day for night mid-scene, recasts its star with a guy hiding behind a cape, and narrates it all with total solemnity. The ultimate starter pack.",
+      "omdbId": "tt0052077",
+      "imdbId": "tt0052077",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGM4Y2MwMzktODg3MS00ZjVkLTk2NGMtY2Y0M2Y2MWQ0ZDBiXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "runtime": 79,
+      "imdbRating": 3.9,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "birdemic",
+      "title": "Birdemic: Shock and Terror",
+      "year": 2010,
+      "tier": "classic",
+      "moods": [
+        "creature"
+      ],
+      "tags": [
+        "clip-art eagles",
+        "coat-hanger defense",
+        "eco-message"
+      ],
+      "headline": "The Birds Have Clip-Art Wings.",
+      "blurb": "Hovering GIF birds dive-bomb a small town while the heroes swat back with coat hangers. Long scenes of driving, an earnest climate message, and effects that look like a screensaver.",
+      "imdbId": "tt1316037",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTcxODAwMDYwNV5BMl5BanBnXkFtZTcwNzQ3MjQzMg@@._V1_SX300.jpg",
+      "runtime": 105,
+      "imdbRating": 1.7,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "samurai-cop",
+      "title": "Samurai Cop",
+      "year": 1991,
+      "tier": "classic",
+      "moods": [
+        "action"
+      ],
+      "tags": [
+        "obvious wig",
+        "deadpan cop",
+        "Robert Z'Dar"
+      ],
+      "headline": "He Plays by His Own Haircut.",
+      "blurb": "Shot with reshoots so far apart the star needed a wig that never matches. Stilted flirting, sword fights in sweatpants, and line reads so flat they become their own genre.",
+      "omdbId": "tt0130236",
+      "imdbId": "tt0130236",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDY4YzU1YWQtYTRkNi00ODA1LTk1N2EtN2U1MWQxOTcyZjc1XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "runtime": 96,
+      "imdbRating": 4.5,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "manos",
+      "title": "Manos: The Hands of Fate",
+      "year": 1966,
+      "tier": "classic",
+      "moods": [
+        "horror"
+      ],
+      "tags": [
+        "Torgo",
+        "dubbed in post",
+        "endless driving"
+      ],
+      "headline": "The Master Would Not Approve.",
+      "blurb": "A fertilizer salesman's bet that he could make a horror movie. Every voice is dubbed by a handful of people, the caretaker shuffles on bizarre knees, and the pacing is a fever dream.",
+      "imdbId": "tt0060666",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjUzMzYxYmYtYzMwNy00NDc3LWI4NmQtZjVjNmZlMGY2NTRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime": 70,
+      "imdbRating": 1.7,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "showgirls",
+      "title": "Showgirls",
+      "year": 1995,
+      "tier": "classic",
+      "moods": [
+        "earnest"
+      ],
+      "tags": [
+        "Vegas melodrama",
+        "thrashing dance",
+        "fry-cook intensity"
+      ],
+      "headline": "She Came to Vegas to Dance Angry.",
+      "blurb": "A big-budget studio drama played at maximum volume. The dancing is violent, the dialogue is unhinged, and every emotion arrives at full scream. Best watched with commentary from the couch.",
+      "imdbId": "tt0114436",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzcyMjExNjg3OF5BMl5BanBnXkFtZTgwOTY4Mjc1MDE@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "runtime": 131,
+      "imdbRating": 5.2,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "battlefield-earth",
+      "title": "Battlefield Earth",
+      "year": 2000,
+      "tier": "classic",
+      "moods": [
+        "sci-fi"
+      ],
+      "tags": [
+        "Dutch angles",
+        "dreadlock aliens",
+        "Travolta cackling"
+      ],
+      "headline": "Man-Animals, Prepare Yourselves.",
+      "blurb": "Every shot is tilted, every transition is a star wipe, and John Travolta hams it up in platform boots. Ambitious, expensive, and genuinely baffling from first frame to last.",
+      "imdbId": "tt0185183",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODJiODc1NjQtZmRhZS00ZTlmLTlmNTItMmZiZjcxMmU4ZDI2XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "runtime": 117,
+      "imdbRating": 2.5,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "mac-and-me",
+      "title": "Mac and Me",
+      "year": 1988,
+      "tier": "classic",
+      "moods": [
+        "sci-fi",
+        "weird"
+      ],
+      "tags": [
+        "fast-food dance",
+        "dead-eyed alien",
+        "product placement"
+      ],
+      "headline": "Lost in Space. Found in a Drive-Thru.",
+      "blurb": "An E.T. knockoff funded with fast-food money, featuring a full-on dance number inside a burger joint. The alien family stares unblinking into your soul the entire time.",
+      "imdbId": "tt0095560",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGU3YjE1ZGYtYmY5NC00OTU5LTk1NjktODk1OThlYjZlYzRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,16,380,562_.jpg",
+      "runtime": 99,
+      "imdbRating": 3.4,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "robot-monster",
+      "title": "Robot Monster",
+      "year": 1953,
+      "tier": "classic",
+      "moods": [
+        "sci-fi",
+        "creature"
+      ],
+      "tags": [
+        "gorilla suit",
+        "diving helmet",
+        "bubble machine"
+      ],
+      "headline": "Earth's Last Hope Wears a Fishbowl.",
+      "blurb": "The alien invader is a man in a gorilla suit with a diving helmet, operating a bubble machine in a canyon. Shot in 3-D on a shoestring, with stock dinosaurs dropped in for no reason.",
+      "imdbId": "tt0046248",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmFhMTE1ZGYtOTdkOS00YTJmLTkzZmEtNzQ2YjM2NGVkNDljXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "runtime": 66,
+      "imdbRating": 3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "sharknado",
+      "title": "Sharknado",
+      "year": 2013,
+      "tier": "classic",
+      "moods": [
+        "creature"
+      ],
+      "tags": [
+        "chainsaw heroics",
+        "weather sharks",
+        "knowing camp"
+      ],
+      "headline": "Forecast: 100% Chance of Teeth.",
+      "blurb": "Sharks ride a tornado into Los Angeles and the cast reacts with heroic seriousness. Cheap CGI, chainsaws, and logic that dissolves faster than the stock footage.",
+      "imdbId": "tt2724064",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTNkOTA0NjYtM2VjOC00ZmYzLWI1NzQtMjY4NTU2MGNkZmU0XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "runtime": 86,
+      "imdbRating": 3.3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "wicker-man-2006",
+      "title": "The Wicker Man",
+      "year": 2006,
+      "tier": "classic",
+      "moods": [
+        "horror",
+        "earnest"
+      ],
+      "tags": [
+        "Nic Cage meltdown",
+        "bear suit",
+        "bee panic"
+      ],
+      "headline": "Not the Bees. Anything But the Bees.",
+      "blurb": "A remake of a horror classic that becomes a showcase for Nicolas Cage running, yelling, and dressing like a bear. Every scene escalates his frustration into comedy gold.",
+      "imdbId": "tt0450345",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWM1MjYzM2MtY2RmNS00OGUxLTlkNGItZjM3YjdmMTk1YjQ4XkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+      "runtime": 102,
+      "imdbRating": 3.8,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "cats",
+      "title": "Cats",
+      "year": 2019,
+      "tier": "classic",
+      "moods": [
+        "weird"
+      ],
+      "tags": [
+        "digital fur",
+        "star cameos",
+        "uncanny everything"
+      ],
+      "headline": "Nine Lives. Zero Explanations.",
+      "blurb": "A blockbuster musical rendered in digital fur technology that never quite settles on how big anyone is. A-list stars commit completely while the visual effects fight back.",
+      "imdbId": "tt5697572",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjhmMjcxNDUtNmVjZS00MjA1LTgzZjgtOTRjMTk4YjU1NDcwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime": 110,
+      "imdbRating": 2.8,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "turkish-star-wars",
+      "title": "Turkish Star Wars",
+      "year": 1982,
+      "omdbTitle": "Dünyayi Kurtaran Adam",
+      "tier": "classic",
+      "moods": [
+        "sci-fi",
+        "action"
+      ],
+      "tags": [
+        "borrowed footage",
+        "trampoline kung fu",
+        "cardboard armor"
+      ],
+      "headline": "He Saved the World. With Someone Else's Footage.",
+      "blurb": "A Turkish space epic that splices in borrowed blockbuster effects shots and soundtrack cues. The hero trains by kicking boulders and fights monsters in foam suits.",
+      "omdbId": "tt0182060",
+      "imdbId": "tt0182060",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDk3MDc0YzAtYzY4MC00OWZmLWE3YjUtZWJlNDRkNjFiNDBiXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 91,
+      "imdbRating": 4.4,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "hard-ticket-to-hawaii",
+      "title": "Hard Ticket to Hawaii",
+      "year": 1987,
+      "tier": "classic",
+      "moods": [
+        "action"
+      ],
+      "tags": [
+        "frisbee of doom",
+        "toxic snake",
+        "bazooka skateboard"
+      ],
+      "headline": "Paradise Has a Bazooka Problem.",
+      "blurb": "Andy Sidaris's Hawaiian spy romp features agents in swimsuits, a mutant snake, and one of the most gloriously over-the-top deaths ever involving a skateboard. Pure 80s sunshine nonsense.",
+      "imdbId": "tt0093146",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjVjMDFmZjItYmViZS00ZGRkLTg3YmItNTU5ODRjMWFlOGUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 96,
+      "imdbRating": 5,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "night-of-the-lepus",
+      "title": "Night of the Lepus",
+      "year": 1972,
+      "tier": "classic",
+      "moods": [
+        "creature"
+      ],
+      "tags": [
+        "giant bunnies",
+        "slow-mo hopping",
+        "dead serious"
+      ],
+      "headline": "The Hop Heard Round the World.",
+      "blurb": "Real rabbits on miniature sets, filmed in slow motion, presented as a terrifying menace. The cast, including a Star Trek doctor, sells it with straight-faced dread.",
+      "imdbId": "tt0069005",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGNhYzdlZWQtNjVjMC00NjdkLTg4ZWItZjQzMGEwZmQ0NTgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 88,
+      "imdbRating": 4.1,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "batman-and-robin",
+      "title": "Batman & Robin",
+      "year": 1997,
+      "tier": "classic",
+      "moods": [
+        "action",
+        "weird"
+      ],
+      "tags": [
+        "ice puns",
+        "neon everything",
+        "bat credit card"
+      ],
+      "headline": "Chill Out. Literally.",
+      "blurb": "A superhero toy commercial with an endless stream of ice puns. The sets glow neon, the gadgets are absurd, and Arnold delivers every line like it's a pun contest he's winning.",
+      "imdbId": "tt0118688",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzU3ZjE3M2UtM2E4Ni00MDI5LTkyZGUtOTFkMGIyYjNjZGU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "runtime": 125,
+      "imdbRating": 3.8,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "super-mario-bros",
+      "title": "Super Mario Bros.",
+      "year": 1993,
+      "tier": "classic",
+      "moods": [
+        "weird",
+        "sci-fi"
+      ],
+      "tags": [
+        "fungus city",
+        "dinosaur dimension",
+        "grimy cyberpunk"
+      ],
+      "headline": "Welcome to the Fungus Dimension.",
+      "blurb": "A colorful game becomes a grimy dystopian dinosaur city with tiny-headed goons and Dennis Hopper in a hair sculpture. Gonzo, strange, and weirdly committed.",
+      "imdbId": "tt0108255",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWUzYWIxMDUtYTdmYS00MjUxLWJjNDItYzcxOTY0N2M2YWE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "runtime": 104,
+      "imdbRating": 4.2,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "street-fighter",
+      "title": "Street Fighter",
+      "year": 1994,
+      "tier": "classic",
+      "moods": [
+        "action"
+      ],
+      "tags": [
+        "Raul Julia legend",
+        "game-accurate costumes",
+        "flag-waving"
+      ],
+      "headline": "Every Day Is a Holy Day.",
+      "blurb": "Van Damme leads a multinational strike force through a plot that ignores the game, while Raul Julia gives a gloriously theatrical villain turn. Bright costumes, bigger speeches.",
+      "imdbId": "tt0111301",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTliMDFmNDQtZjRlYS00MDE3LWJmOTktNjA0ZDUwZjcyNTdiXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "runtime": 102,
+      "imdbRating": 4.2,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "mommie-dearest",
+      "title": "Mommie Dearest",
+      "year": 1981,
+      "tier": "classic",
+      "moods": [
+        "earnest"
+      ],
+      "tags": [
+        "Faye Dunaway",
+        "operatic rage",
+        "hanger moment"
+      ],
+      "headline": "Hollywood's Most Intense Housekeeping.",
+      "blurb": "A biopic played as grand opera, with Faye Dunaway going all in on every scene. Intended as tragedy, it became a camp touchstone thanks to its iconic over-the-top outbursts.",
+      "imdbId": "tt0082766",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTFkZjg1N2ItNDQxMS00MTNkLWE0MzgtNTU2MjJkNGI2ZTc0XkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "runtime": 129,
+      "imdbRating": 6.7,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "xanadu",
+      "title": "Xanadu",
+      "year": 1980,
+      "tier": "classic",
+      "moods": [
+        "weird"
+      ],
+      "tags": [
+        "roller disco",
+        "muse romance",
+        "neon mythology"
+      ],
+      "headline": "A Muse on Roller Skates.",
+      "blurb": "A Greek muse inspires a guy to open a roller disco, with Gene Kelly tap-dancing along. Great songs stapled to a story that floats away like a laser light show.",
+      "imdbId": "tt0081777",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODZkYjUyZmYtNDdmNC00NzNkLTkwYzAtNjRmYzI0MzVhZGI2XkEyXkFqcGc@._V1_QL75_UX380_CR0,12,380,562_.jpg",
+      "runtime": 96,
+      "imdbRating": 5.4,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "road-house",
+      "title": "Road House",
+      "year": 1989,
+      "tier": "classic",
+      "moods": [
+        "action"
+      ],
+      "tags": [
+        "philosophical bouncer",
+        "bar brawls",
+        "mullet wisdom"
+      ],
+      "headline": "Be Nice. Until It's Time Not to Be.",
+      "blurb": "Patrick Swayze plays a zen bouncer with a philosophy degree cleaning up the world's rowdiest bar. Grave sincerity meets nightly brawls and a villain with a monster truck.",
+      "imdbId": "tt0098206",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTU1MTE2Mjk2OF5BMl5BanBnXkFtZTcwMTUzNjYzNA@@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime": 114,
+      "imdbRating": 6.7,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "jaws-the-revenge",
+      "title": "Jaws: The Revenge",
+      "year": 1987,
+      "tier": "classic",
+      "moods": [
+        "creature"
+      ],
+      "tags": [
+        "grudge shark",
+        "roaring fish",
+        "Caribbean detour"
+      ],
+      "headline": "This Time, the Shark Holds a Grudge.",
+      "blurb": "A shark seemingly follows one family across the ocean to settle a score. It roars, it surfaces on cue, and Michael Caine looks happy to be on vacation.",
+      "imdbId": "tt0093300",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGFiOTU1MTctMTRkMy00ZmVkLTk5YTktODMxZDhlOGQyN2MwXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+      "runtime": 90,
+      "imdbRating": 3.1,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "death-wish-3",
+      "title": "Death Wish 3",
+      "year": 1985,
+      "tier": "classic",
+      "moods": [
+        "action"
+      ],
+      "tags": [
+        "neighborhood war",
+        "giant handgun",
+        "cartoon gangs"
+      ],
+      "headline": "The Neighborhood Watch Got Upgraded.",
+      "blurb": "Charles Bronson turns a city block into a war zone against gangs that look like a music video. The body count is ludicrous, the villains are cartoonish, and the escalation never stops.",
+      "imdbId": "tt0089003",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGUzNjQ5MTEtNGZiYS00NGZiLWIwZDItYzdiNGMyNDMxMzczXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "runtime": 90,
+      "imdbRating": 5.8,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "ninja-terminator",
+      "title": "Ninja Terminator",
+      "year": 1985,
+      "tier": "deep-cut",
+      "moods": [
+        "action"
+      ],
+      "tags": [
+        "cut-and-paste plot",
+        "toy-phone villain",
+        "ninja headbands"
+      ],
+      "headline": "Two Movies. One Phone Call.",
+      "blurb": "Two unrelated films stitched together with new ninja footage, linked mostly by phone calls on a cartoon-cat phone. The editing creates a story that barely exists.",
+      "omdbId": "tt0199849",
+      "imdbId": "tt0199849",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTgxZjBiYjctMDZjNy00NmMxLWE3YWUtODNjNDZjMDM0ZDFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 88,
+      "imdbRating": 4.4,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "gymkata",
+      "title": "Gymkata",
+      "year": 1985,
+      "tier": "deep-cut",
+      "moods": [
+        "action"
+      ],
+      "tags": [
+        "Olympic gymnast",
+        "convenient pommel horse",
+        "fictional kingdom"
+      ],
+      "headline": "Stick the Landing. Save the Free World.",
+      "blurb": "An Olympic gymnast becomes a spy who conveniently finds gymnastics equipment in a hostile village. The kicks, flips and parallel-bar fights are utterly sincere.",
+      "imdbId": "tt0089243",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmEzZWUwNWMtZjNjOC00N2E3LWE3MDYtY2FiMmM3OGU2Yjg1XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 90,
+      "imdbRating": 4.3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "lady-terminator",
+      "title": "Lady Terminator",
+      "year": 1989,
+      "tier": "deep-cut",
+      "moods": [
+        "action",
+        "horror"
+      ],
+      "tags": [
+        "Indonesian exploitation",
+        "legend mashup",
+        "machine-gun mayhem"
+      ],
+      "headline": "She Came From the Sea. With a Machine Gun.",
+      "blurb": "An Indonesian riff on a sci-fi classic fused with a local sea-queen legend. Wild shootouts, wilder dubbing, and a body count that keeps climbing.",
+      "imdbId": "tt0095483",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmNiMjI2ZTUtMWM0YS00MDg1LWExYTktYjEzNGYwMDUxN2VlXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 82,
+      "imdbRating": 5.5,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "dangerous-men",
+      "title": "Dangerous Men",
+      "year": 2005,
+      "tier": "deep-cut",
+      "moods": [
+        "action",
+        "earnest"
+      ],
+      "tags": [
+        "decades in the making",
+        "plot pivots",
+        "synth score"
+      ],
+      "headline": "Twenty Years in the Making. You Can Tell.",
+      "blurb": "A one-man vanity project shot over decades, so the plot keeps abandoning characters for new ones. Synth music, baffling fights, and a total disregard for story structure.",
+      "imdbId": "tt0489015",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTlkZTgyZWEtNWE5NC00MGVjLWJkNDQtYTUyOTE3OTA1NGYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 80,
+      "imdbRating": 4.2,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "deadly-prey",
+      "title": "Deadly Prey",
+      "year": 1987,
+      "tier": "deep-cut",
+      "moods": [
+        "action"
+      ],
+      "tags": [
+        "cut-off shorts",
+        "mercenary hunt",
+        "backyard war"
+      ],
+      "headline": "They Hunted the Wrong Guy in Shorts.",
+      "blurb": "A man in cut-off shorts takes on an army of mercenaries in suburban woodland. Gloriously unhinged action from a micro-budget, with the stakes delivered at full volume.",
+      "imdbId": "tt0092848",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTIxOWYzMzMtZmIxOC00OWVmLWExOGMtMTA5MjQzZjQyY2NlXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 88,
+      "imdbRating": 5,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "megaforce",
+      "title": "Megaforce",
+      "year": 1982,
+      "tier": "deep-cut",
+      "moods": [
+        "action",
+        "sci-fi"
+      ],
+      "tags": [
+        "spandex soldiers",
+        "flying motorcycle",
+        "thumbs up"
+      ],
+      "headline": "Deeds Not Words. Mostly Thumbs.",
+      "blurb": "An elite army in skintight gold jumpsuits rides gadget-laden dune buggies. The headband-wearing hero gives thumbs up constantly and the famous flying bike effect is a sight.",
+      "imdbId": "tt0084316",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTA3ODBmOTYtYTJlZi00ZmFjLWFkMjYtY2JkZmVhZGQwNzUxXkEyXkFqcGc@._V1_QL75_UX380_CR0,13,380,562_.jpg",
+      "runtime": 99,
+      "imdbRating": 3.7,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "never-too-young-to-die",
+      "title": "Never Too Young to Die",
+      "year": 1986,
+      "tier": "deep-cut",
+      "moods": [
+        "action"
+      ],
+      "tags": [
+        "Gene Simmons villain",
+        "teen spy",
+        "post-punk lair"
+      ],
+      "headline": "Junior Spy. Senior Nonsense.",
+      "blurb": "John Stamos plays a gymnast who becomes a spy, facing a theatrical villain played by Gene Simmons. It's a Bond knockoff with music-video energy and makeup to match.",
+      "imdbId": "tt0091621",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGEzMjJhYzItNzYxNi00NWU2LThiNjQtMzYwZmI3ZmM5NTc1XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 92,
+      "imdbRating": 4.8,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "raw-force",
+      "title": "Raw Force",
+      "year": 1982,
+      "tier": "deep-cut",
+      "moods": [
+        "action",
+        "horror"
+      ],
+      "tags": [
+        "kung fu cruise",
+        "cannibal monks",
+        "everything at once"
+      ],
+      "headline": "Booze Cruise to Monk Island.",
+      "blurb": "A kung fu club on a cruise collides with smugglers and an island of strange monks. It throws in martial arts, zombies and pirate action with no regard for tone.",
+      "imdbId": "tt0084573",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGFiNmM5OTItZmExNS00N2VmLWJkMzctMjUyZmVjZWNjMjM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 86,
+      "imdbRating": 5.4,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "strike-commando",
+      "title": "Strike Commando",
+      "year": 1987,
+      "tier": "deep-cut",
+      "moods": [
+        "action"
+      ],
+      "tags": [
+        "Reb Brown screaming",
+        "jungle ripoff",
+        "explosions galore"
+      ],
+      "headline": "One Man. One Scream. Many Explosions.",
+      "blurb": "An Italian Rambo-style jungle film starring Reb Brown, who delivers emotion at maximum lung capacity. Explosions, heartfelt speeches, and some legendary yelling.",
+      "imdbId": "tt0094059",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTVmMzA5NmUtZjkwZC00NDhiLWFkNjgtNDA3NGZmYjY2M2E4XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 104,
+      "imdbRating": 5.1,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "ninja-iii",
+      "title": "Ninja III: The Domination",
+      "year": 1984,
+      "tier": "deep-cut",
+      "moods": [
+        "action",
+        "horror"
+      ],
+      "tags": [
+        "possessed aerobics",
+        "arcade glow",
+        "exorcism ninja"
+      ],
+      "headline": "Aerobics by Day. Ninja by Night.",
+      "blurb": "An aerobics instructor gets possessed by a ninja spirit, mixing horror, martial arts and leg warmers. The 80s style is unbeatable and the logic is gleefully absent.",
+      "imdbId": "tt0087805",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDYxOWJhNmMtOWI5Yy00NzBjLTljYTMtMjUwZjFiMGMxNGE2XkEyXkFqcGc@._V1_QL75_UX380_CR0,17,380,562_.jpg",
+      "runtime": 92,
+      "imdbRating": 5.4,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "over-the-top",
+      "title": "Over the Top",
+      "year": 1987,
+      "tier": "deep-cut",
+      "moods": [
+        "action",
+        "earnest"
+      ],
+      "tags": [
+        "arm wrestling saga",
+        "trucker dad",
+        "hat flip"
+      ],
+      "headline": "The Whole Family Arm-Wrestles.",
+      "blurb": "Stallone plays a trucker who arm-wrestles his way back into his son's heart. A big-hearted family drama built around grimacing, flipped hats and forearm close-ups.",
+      "imdbId": "tt0093692",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTBmZGI5ODMtMWYzNS00NjJhLTk5ZjAtNzQxNTk1ZjI2NDgwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime": 93,
+      "imdbRating": 5.9,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "no-holds-barred",
+      "title": "No Holds Barred",
+      "year": 1989,
+      "tier": "deep-cut",
+      "moods": [
+        "action"
+      ],
+      "tags": [
+        "wrestling melodrama",
+        "limo fight",
+        "cartoon villains"
+      ],
+      "headline": "The Ring Was Never Big Enough.",
+      "blurb": "Hulk Hogan's movie debut pits him against a ruthless TV executive and a hulking rival. The villains are cartoonish, the fights are wrestling-show big, and nothing is subtle.",
+      "imdbId": "tt0097987",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGFkZDc1YjktZTAwYi00NjBmLThiYjQtNThiZDljOTMzNDk1XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 93,
+      "imdbRating": 4.4,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "mitchell",
+      "title": "Mitchell",
+      "year": 1975,
+      "tier": "deep-cut",
+      "moods": [
+        "action"
+      ],
+      "tags": [
+        "schlubby cop",
+        "MST3K favorite",
+        "Joe Don Baker"
+      ],
+      "headline": "The Cop Who Couldn't Care Less.",
+      "blurb": "A sluggish detective who seems mostly interested in beer and naps stumbles through a crime story. The pacing alone is a comedy, and its shrugging hero is unforgettable.",
+      "imdbId": "tt0073396",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjQxOTBjYzYtN2U5MS00MWQ3LWEyMmMtYWM3YzI4MjExNjhkXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg",
+      "runtime": 97,
+      "imdbRating": 2.8,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "dolemite",
+      "title": "Dolemite",
+      "year": 1975,
+      "tier": "deep-cut",
+      "moods": [
+        "action",
+        "weird"
+      ],
+      "tags": [
+        "rhyming hero",
+        "visible boom mic",
+        "DIY kung fu"
+      ],
+      "headline": "Rhymes, Kicks and a Boom Mic Cameo.",
+      "blurb": "Rudy Ray Moore's passion project features rhyming toasts, homegrown kung fu, and mics drifting into shots. Its homemade energy is infectious and the confidence is unmatched.",
+      "imdbId": "tt0072895",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWNkNjliYmItYmQ3Ni00ZTNmLWI0MTUtZGM5NDg5YTI5ZGIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "runtime": 90,
+      "imdbRating": 5.7,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "cool-as-ice",
+      "title": "Cool as Ice",
+      "year": 1991,
+      "tier": "deep-cut",
+      "moods": [
+        "earnest"
+      ],
+      "tags": [
+        "Vanilla Ice romance",
+        "motorcycle jumps",
+        "fashion crimes"
+      ],
+      "headline": "Drop That Zero. Get With the Hero.",
+      "blurb": "Vanilla Ice plays a motorcycle rebel romancing a small-town girl. The outfits are loud, the dialogue is pure posturing, and every attempt at cool is a delight.",
+      "imdbId": "tt0101615",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWNiMTcyMzktNjQ5MS00ZDMxLWE5ZGQtYTMwYjBmZDcxODAyXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "runtime": 91,
+      "imdbRating": 3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "catwoman",
+      "title": "Catwoman",
+      "year": 2004,
+      "tier": "deep-cut",
+      "moods": [
+        "action"
+      ],
+      "tags": [
+        "CGI acrobatics",
+        "basketball flirting",
+        "cosmetics villain"
+      ],
+      "headline": "Beauty Is Only Skin Deep. Literally.",
+      "blurb": "A superhero movie where the villain's scheme involves face cream and the hero plays cat-like one-on-one basketball. The rubbery CGI leaps steal the show.",
+      "imdbId": "tt0327554",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MzM0NDAzOF5BMl5BanBnXkFtZTcwMDY3MDYyMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime": 104,
+      "imdbRating": 3.5,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "space-mutiny",
+      "title": "Space Mutiny",
+      "year": 1988,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi"
+      ],
+      "tags": [
+        "railing deaths",
+        "office-park starship",
+        "borrowed effects"
+      ],
+      "headline": "The Ship Has Railings. Many Railings.",
+      "blurb": "A space epic filmed in an industrial building, with borrowed space-battle effects and extras who fall over railings with alarming frequency. Reb Brown leads the charge.",
+      "imdbId": "tt0096149",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTM0MGQzNTgtZGM1Zi00ZTUzLThkNDUtYWE5ZjQ5ZTlhYWJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 91,
+      "imdbRating": 2.1,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "pod-people",
+      "title": "Pod People",
+      "year": 1983,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi",
+        "creature"
+      ],
+      "tags": [
+        "Spanish E.T. riff",
+        "rock band subplot",
+        "fuzzy alien"
+      ],
+      "headline": "Make Friends. Avoid Pods.",
+      "blurb": "A Spanish sci-fi oddity with a friendly furry alien, a rock band of campers, and a plot that wanders between both. An MST3K favorite with honest charm.",
+      "omdbId": "tt0086026",
+      "imdbId": "tt0086026",
+      "poster": "posters/pod-people.jpg",
+      "runtime": 84,
+      "imdbRating": 2.1,
+      "ratingAsOf": "2026-11",
+      "posterOverride": "posters/pod-people.jpg"
+    },
+    {
+      "id": "santa-conquers-martians",
+      "title": "Santa Claus Conquers the Martians",
+      "year": 1964,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi",
+        "weird"
+      ],
+      "tags": [
+        "holiday sci-fi",
+        "tinfoil robot",
+        "antenna helmets"
+      ],
+      "headline": "Christmas Is Cancelled. Mars Has Questions.",
+      "blurb": "Martians kidnap Santa to cheer up their kids. Cardboard sets, a robot that looks hand-built from boxes, and green-faced aliens in antenna helmets. Perfect December pick.",
+      "imdbId": "tt0058548",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzZiNDM3MDgtM2VhOS00NWFiLTkyYzEtNjUwODQ0OTc4NzNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 81,
+      "imdbRating": 2.7,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "laserblast",
+      "title": "Laserblast",
+      "year": 1978,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi"
+      ],
+      "tags": [
+        "arm cannon",
+        "stop-motion aliens",
+        "teen rampage"
+      ],
+      "headline": "Bad Day? Here's an Arm Cannon.",
+      "blurb": "A disaffected teen finds an alien arm laser and blows up cars around town. Stop-motion aliens provide the best scenes and the hero's journey is mostly pouting.",
+      "imdbId": "tt0077834",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmRhZDlhY2ItN2VjNC00MWEzLTkxMjAtZTkzMjE4NTgyNThkXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 85,
+      "imdbRating": 2.8,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "starcrash",
+      "title": "Starcrash",
+      "year": 1978,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi"
+      ],
+      "tags": [
+        "Italian space opera",
+        "Hasselhoff",
+        "Christmas-light starfields"
+      ],
+      "headline": "The Galaxy Glitters. The Plot Doesn't.",
+      "blurb": "An Italian space opera rushed out in the wake of a famous saga. Starfields made of colored lights, a cowboy robot, and a young David Hasselhoff with a laser sword.",
+      "imdbId": "tt0079946",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTBlMzJlYTEtYmZlMi00Mjg5LTkxZmItNWJjMzMzMjQ2NjMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 92,
+      "imdbRating": 4,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "zardoz",
+      "title": "Zardoz",
+      "year": 1974,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi",
+        "weird"
+      ],
+      "tags": [
+        "flying stone head",
+        "Connery in red",
+        "art-house nonsense"
+      ],
+      "headline": "The Stone Head Has Spoken.",
+      "blurb": "A deeply serious art-house sci-fi film where Sean Connery wears a red bandolier diaper and a giant stone head floats over the land. Ambitious, philosophical, bewildering.",
+      "imdbId": "tt0070948",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGRmYzRkMmQtZmFlMC00YmZjLWI5NDktNGM4ZmI4YzNkNTcwXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+      "runtime": 105,
+      "imdbRating": 5.8,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "yor",
+      "title": "Yor, the Hunter from the Future",
+      "year": 1983,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi",
+        "action"
+      ],
+      "tags": [
+        "caveman to cosmos",
+        "dinosaur hang-glide",
+        "theme song"
+      ],
+      "headline": "He's the Man. He's Yor.",
+      "blurb": "A blond barbarian battles rubber dinosaurs in a caveman world that suddenly goes sci-fi. The theme song is an earworm and Reb Brown is pure enthusiasm.",
+      "imdbId": "tt0084935",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjBkM2E4MjctNjllOS00OTJiLTk3OTMtZjQ1NWNiMDliNGZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 88,
+      "imdbRating": 4.3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "rotor",
+      "title": "R.O.T.O.R.",
+      "year": 1987,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi",
+        "action"
+      ],
+      "tags": [
+        "robot cop",
+        "glacial chase",
+        "mustache acting"
+      ],
+      "headline": "Justice Is Programmed. Slowly.",
+      "blurb": "A robot officer goes rogue in a film that moves at a walking pace even during chases. Mustaches, Texas locations, and droning narration make it endlessly quotable.",
+      "imdbId": "tt0098156",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzQxMTgxMDAtNDM1Mi00YjZlLWI0ZDgtZmI0NTU1YzJhMzI0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime": 90,
+      "imdbRating": 2.7,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "highlander-ii",
+      "title": "Highlander II: The Quickening",
+      "year": 1991,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi",
+        "action"
+      ],
+      "tags": [
+        "sequel retcon",
+        "ozone shield",
+        "Sean Connery returns"
+      ],
+      "headline": "There Can Be Only One More.",
+      "blurb": "A sequel that rewrites its own mythology to involve aliens and a planetary shield. Sean Connery returns in flamboyant fashion and the story twists into knots.",
+      "imdbId": "tt0102034",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTE5NzVjMmMtNTVjYS00ZGQ4LWI3M2MtNzBlNGZiNjQyNzU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+      "runtime": 91,
+      "imdbRating": 4.2,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "shocking-dark",
+      "title": "Shocking Dark",
+      "year": 1989,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi",
+        "horror"
+      ],
+      "tags": [
+        "Venice ripoff",
+        "marine squad",
+        "mashup sequel"
+      ],
+      "headline": "Two Blockbusters Enter. One Bargain Leaves.",
+      "blurb": "An Italian film that borrows liberally from two big sci-fi hits and relocates the action to Venice tunnels. The dialogue is cribbed, the monsters are rubber, and the cheek is admirable.",
+      "omdbId": "tt0098321",
+      "imdbId": "tt0098321",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDA4ZmQ5NDUtODg4Ni00YWVmLWJlODMtNGJiYTA2YTVlMjM1XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "runtime": 90,
+      "imdbRating": 4.3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "abraxas",
+      "title": "Abraxas, Guardian of the Universe",
+      "year": 1990,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi",
+        "action"
+      ],
+      "tags": [
+        "Jesse Ventura",
+        "space cop",
+        "Canadian winter"
+      ],
+      "headline": "Intergalactic Police. Canadian Weather.",
+      "blurb": "Jesse Ventura plays an interstellar lawman pursuing a renegade across a snowy small town. Deadpan delivery, strange powers, and a Jim Belushi cameo out of nowhere.",
+      "imdbId": "tt0101264",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmQ5YzQyZDEtNzdjMy00ZWM3LWI4OTQtMWY2NmY4ODljMjA4XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 87,
+      "imdbRating": 2.9,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "pumaman",
+      "title": "The Pumaman",
+      "year": 1980,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi",
+        "action"
+      ],
+      "tags": [
+        "bluescreen flying",
+        "Aztec mask",
+        "Donald Pleasence"
+      ],
+      "headline": "Wears a Cape. Flies Sideways.",
+      "blurb": "An Italian superhero whose flying scenes are some of the shakiest bluescreen ever filmed. His powers are vague, his costume is a blanket, and Donald Pleasence keeps it all deadly serious.",
+      "imdbId": "tt0081693",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODY1OTE0ODUtY2EyMy00ZjcwLWE1NDYtYjE5MjlhNTllZDk1XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 90,
+      "imdbRating": 2.3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "lifeforce",
+      "title": "Lifeforce",
+      "year": 1985,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi",
+        "horror"
+      ],
+      "tags": [
+        "space vampires",
+        "London chaos",
+        "Patrick Stewart"
+      ],
+      "headline": "They Came From Halley's Comet.",
+      "blurb": "A huge-budget space-vampire epic that escalates into total pandemonium in London. Intensely serious performances meet wild effects and a story that keeps getting crazier.",
+      "imdbId": "tt0089489",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWNmN2Y4ZTAtNGRkMC00ODk2LTkwZjItNDU3N2VjMmEzMDk4XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "runtime": 101,
+      "imdbRating": 6.2,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "monster-a-go-go",
+      "title": "Monster a Go-Go",
+      "year": 1965,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi",
+        "creature"
+      ],
+      "tags": [
+        "half-finished film",
+        "astronaut monster",
+        "narrated wrap-up"
+      ],
+      "headline": "The Monster Is Coming. Eventually.",
+      "blurb": "A film abandoned and then finished by another director years later, with narration filling the gaps. Long scenes of talking, a giant returning astronaut, and pacing that tests stamina.",
+      "imdbId": "tt0059464",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjI1YWIyN2YtMjYxNS00OThlLWFjYmEtNDFiMDViZmE1N2FlXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 68,
+      "imdbRating": 1.8,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "hobgoblins",
+      "title": "Hobgoblins",
+      "year": 1988,
+      "tier": "deep-cut",
+      "moods": [
+        "creature",
+        "weird"
+      ],
+      "tags": [
+        "puppet critters",
+        "rake duel",
+        "Gremlins knockoff"
+      ],
+      "headline": "They Grant Your Wish. Badly.",
+      "blurb": "Tiny puppet creatures make dreams come true with chaotic results. Features a rake fight, a phone-sex subplot, and hand puppets with no articulation whatsoever.",
+      "imdbId": "tt0089280",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDYxMTY3N15BMl5BanBnXkFtZTgwNjAxMzkwMzE@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime": 88,
+      "imdbRating": 2.3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "giant-claw",
+      "title": "The Giant Claw",
+      "year": 1957,
+      "tier": "deep-cut",
+      "moods": [
+        "creature",
+        "sci-fi"
+      ],
+      "tags": [
+        "marionette bird",
+        "antimatter",
+        "horrified actors"
+      ],
+      "headline": "It Came From Space. It Has a Face.",
+      "blurb": "The actors reportedly didn't see the bird until the premiere, and you'll understand why. A wild-eyed marionette menaces the world while scientists deliver serious talk about antimatter.",
+      "imdbId": "tt0050432",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGE5ZjkxODktMmY0ZC00ZWUyLTk0YmQtODZkMjFlZGVhM2YzXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 75,
+      "imdbRating": 4.6,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "creeping-terror",
+      "title": "The Creeping Terror",
+      "year": 1964,
+      "tier": "deep-cut",
+      "moods": [
+        "creature",
+        "sci-fi"
+      ],
+      "tags": [
+        "carpet monster",
+        "narration over everything",
+        "victims climbing in"
+      ],
+      "headline": "The Slowest Terror Ever Caught on Film.",
+      "blurb": "A monster made of carpet slowly eats victims who must practically climb in. Much of the dialogue is narrated over the action, turning a monster movie into an audiobook.",
+      "imdbId": "tt0057970",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjgzY2RlYjgtODVhNy00ZGZhLWIyYTMtYjU5MTUyZWRhNmNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 77,
+      "imdbRating": 1.9,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "eegah",
+      "title": "Eegah",
+      "year": 1962,
+      "tier": "deep-cut",
+      "moods": [
+        "creature",
+        "weird"
+      ],
+      "tags": [
+        "caveman crush",
+        "dune buggy songs",
+        "Arch Hall Jr."
+      ],
+      "headline": "A Love Story. With a Caveman.",
+      "blurb": "A giant caveman falls for a teenage girl in the desert while her boyfriend sings pop songs. Bonus: a dad who's oddly calm about it, and Richard Kiel before his Bond days.",
+      "imdbId": "tt0055946",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmVlNGQ0MDktYjMwMC00OTQyLTk3YjEtMWU3NGQyYzRjNDU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 92,
+      "imdbRating": 2.3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "zaat",
+      "title": "Zaat",
+      "year": 1971,
+      "tier": "deep-cut",
+      "moods": [
+        "creature"
+      ],
+      "tags": [
+        "catfish man",
+        "Florida swamp",
+        "inner monologue"
+      ],
+      "headline": "Half Man. Half Catfish. All Grudge.",
+      "blurb": "A scientist transforms himself into a walking catfish to take revenge on Florida. Long underwater sequences, a philosophizing inner monologue, and a costume to remember.",
+      "imdbId": "tt0072666",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWZhYThmMjktM2E3OS00YTkzLWIyMzMtNDE1ZjYyYzExYWUyXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+      "runtime": 100,
+      "imdbRating": 2.2,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "anaconda",
+      "title": "Anaconda",
+      "year": 1997,
+      "tier": "deep-cut",
+      "moods": [
+        "creature"
+      ],
+      "tags": [
+        "Jon Voight accent",
+        "CGI snake",
+        "river doc crew"
+      ],
+      "headline": "Swallowed Whole by Sincerity.",
+      "blurb": "A documentary crew meets a giant snake and a mysterious hunter with an unforgettable accent. Jon Voight's snarling performance and the slithering effects make it pure fun.",
+      "imdbId": "tt0118615",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmU2ZGYyZDAtZGM3My00NjQ4LTlmZmQtNzY4OGRlNDFjNTE4XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "runtime": 89,
+      "imdbRating": 5,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "mega-shark-octopus",
+      "title": "Mega Shark vs. Giant Octopus",
+      "year": 2009,
+      "tier": "deep-cut",
+      "moods": [
+        "creature"
+      ],
+      "tags": [
+        "airplane bite",
+        "pop star science",
+        "stock footage"
+      ],
+      "headline": "Two Titans. One Ocean. Zero Physics.",
+      "blurb": "A shark leaps out of the sea to chomp an airplane, and the whole movie builds around that kind of gleeful excess. The science is ludicrous and the cast plays it straight.",
+      "imdbId": "tt1350498",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjc5OGY4YWMtNDZhZi00YjE1LTg0MzQtMmM4ODVmNjgwMjQ1XkEyXkFqcGdeQXVyOTYyMTM3OTU@._V1_SX300.jpg",
+      "runtime": 88,
+      "imdbRating": 2.5,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "sharktopus",
+      "title": "Sharktopus",
+      "year": 2010,
+      "tier": "deep-cut",
+      "moods": [
+        "creature"
+      ],
+      "tags": [
+        "Roger Corman",
+        "beach chaos",
+        "Eric Roberts"
+      ],
+      "headline": "Half Shark. Half Octopus. All Lunch.",
+      "blurb": "A military experiment goes off the rails along the Mexican coast. Eric Roberts, deliberately goofy kills, and a creature design that's half genius, half CGI blob.",
+      "imdbId": "tt1619880",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MTE5MzY2Nl5BMl5BanBnXkFtZTcwMTQ0NzAzOA@@._V1_QL75_UY562_CR10,0,380,562_.jpg",
+      "runtime": 89,
+      "imdbRating": 3.3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "shark-attack-3",
+      "title": "Shark Attack 3: Megalodon",
+      "year": 2002,
+      "tier": "deep-cut",
+      "moods": [
+        "creature"
+      ],
+      "tags": [
+        "mismatched footage",
+        "John Barrowman",
+        "infamous pickup line"
+      ],
+      "headline": "Size Matters. Scale Doesn't.",
+      "blurb": "A prehistoric shark whose size changes shot to shot, thanks to recycled footage. John Barrowman stars and delivers a now-legendary improvised line you won't forget.",
+      "imdbId": "tt0313597",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTIxODk2NDc5MF5BMl5BanBnXkFtZTcwNTY3NDUxMQ@@._V1_SX300.jpg",
+      "runtime": 99,
+      "imdbRating": 2.8,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "bride-of-the-monster",
+      "title": "Bride of the Monster",
+      "year": 1955,
+      "tier": "deep-cut",
+      "moods": [
+        "creature",
+        "horror"
+      ],
+      "tags": [
+        "Ed Wood",
+        "rubber octopus",
+        "Lugosi grit"
+      ],
+      "headline": "Bela Lugosi Versus a Rubber Octopus.",
+      "blurb": "Ed Wood's mad-scientist tale where Bela Lugosi wrestles a limp, motorless octopus prop. Tor Johnson lumbers around, and the cops are hilariously casual.",
+      "imdbId": "tt0047898",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWJkODg3Y2MtY2JjMi00ZmIzLWExNTgtZjgwNWMwZTM3MWYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 69,
+      "imdbRating": 4.1,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "werewolf-1996",
+      "title": "Werewolf",
+      "year": 1996,
+      "tier": "deep-cut",
+      "moods": [
+        "creature",
+        "horror"
+      ],
+      "tags": [
+        "shaggy makeup",
+        "Joe Estevez",
+        "MST3K favorite"
+      ],
+      "headline": "Howl at the Lack of Moon.",
+      "blurb": "An archaeological find turns workers into werewolves with some of the hairiest makeup ever applied. The cast mispronounces things, the plot lurches, and MST3K loved it.",
+      "imdbId": "tt0118137",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjEwNTU1NjI5OF5BMl5BanBnXkFtZTcwMDQ5NjAyMQ@@._V1_SX300.jpg",
+      "runtime": 99,
+      "imdbRating": 1.7,
+      "ratingAsOf": "2026-11",
+      "omdbId": "tt0118137"
+    },
+    {
+      "id": "beast-of-yucca-flats",
+      "title": "The Beast of Yucca Flats",
+      "year": 1961,
+      "tier": "deep-cut",
+      "moods": [
+        "horror"
+      ],
+      "tags": [
+        "Tor Johnson",
+        "no sync sound",
+        "poetic narrator"
+      ],
+      "headline": "Flag on the Moon. How'd It Get There?",
+      "blurb": "Shot without sync sound, so the narrator philosophizes while characters' mouths stay suspiciously off-screen. Tor Johnson lumbers through the desert as a defector-turned-beast.",
+      "imdbId": "tt0054673",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzhlZWYxZjUtNTI1ZS00NjhkLTliNzAtNjZjZDViZjcwNTE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 54,
+      "imdbRating": 1.9,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "death-bed",
+      "title": "Death Bed: The Bed That Eats",
+      "year": 1977,
+      "tier": "deep-cut",
+      "moods": [
+        "horror",
+        "weird"
+      ],
+      "tags": [
+        "hungry furniture",
+        "artistic ambitions",
+        "trapped narrator"
+      ],
+      "headline": "Sleep Tight. It's Hungry.",
+      "blurb": "A demonic bed eats whatever lands on it, including snacks it seems to enjoy. A dead-serious art-house tone makes the premise even funnier.",
+      "imdbId": "tt0385639",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODcxN2I5OTAtMjE4OS00ZmQ2LWIxNWYtMDE2NjQwMWZjMjFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 77,
+      "imdbRating": 4.3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "silent-night-2",
+      "title": "Silent Night, Deadly Night Part 2",
+      "year": 1987,
+      "tier": "deep-cut",
+      "moods": [
+        "horror"
+      ],
+      "tags": [
+        "recap marathon",
+        "eyebrow acting",
+        "holiday slasher"
+      ],
+      "headline": "Garbage Day Comes Early This Year.",
+      "blurb": "Roughly half the runtime recaps the first movie. The rest is powered by an intense lead whose eyebrows do most of the acting and a famous suburban rampage.",
+      "imdbId": "tt0093974",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGY0NDgzZTYtNDRiZi00ZjM2LWI0MWItNzg3ZTJiN2I2MjY5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime": 88,
+      "imdbRating": 3.9,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "hard-rock-zombies",
+      "title": "Hard Rock Zombies",
+      "year": 1985,
+      "tier": "deep-cut",
+      "moods": [
+        "horror",
+        "weird"
+      ],
+      "tags": [
+        "undead band",
+        "small-town villains",
+        "metal musical"
+      ],
+      "headline": "The Band Came Back. Literally.",
+      "blurb": "A heavy-metal band is murdered in a weird small town and brought back as zombies. The villains are cartoonish, the music never stops, and the plot is pure chaos.",
+      "imdbId": "tt0089254",
+      "poster": "posters/hard-rock-zombies.jpg",
+      "runtime": 98,
+      "imdbRating": 4.5,
+      "ratingAsOf": "2026-11",
+      "omdbId": "tt0089254",
+      "posterOverride": "posters/hard-rock-zombies.jpg"
+    },
+    {
+      "id": "rock-n-roll-nightmare",
+      "title": "Rock 'n' Roll Nightmare",
+      "year": 1987,
+      "tier": "deep-cut",
+      "moods": [
+        "horror",
+        "weird"
+      ],
+      "tags": [
+        "muscle metal",
+        "rubber demons",
+        "farmhouse jam"
+      ],
+      "headline": "The Farmhouse Rocks. The Demons Wiggle.",
+      "blurb": "A metal band records in a remote farmhouse full of rubber demon puppets. Jon Mikl Thor's bare-chested confidence leads to one of the most legendary finales in bad horror.",
+      "imdbId": "tt0093873",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDE3NmQ0YTQtNjNhMy00NTI5LWE3M2ItMjZjMDRiNjA2ZTMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 83,
+      "imdbRating": 3.8,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "spookies",
+      "title": "Spookies",
+      "year": 1986,
+      "tier": "deep-cut",
+      "moods": [
+        "horror",
+        "creature"
+      ],
+      "tags": [
+        "two films in one",
+        "muck men",
+        "monster parade"
+      ],
+      "headline": "Two Movies Enter. Monsters Leave.",
+      "blurb": "Two separate productions stitched together into one haunted-mansion monster mash. The plot barely holds, but the creature effects are wildly inventive and wonderfully gross.",
+      "omdbId": "tt0090057",
+      "imdbId": "tt0090057",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmRmOGY0MTUtMzVkNi00M2ZjLWFiYzAtODA4YjY3ZTlhYzEyXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
+      "runtime": 85,
+      "imdbRating": 4.8,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "blood-freak",
+      "title": "Blood Freak",
+      "year": 1972,
+      "tier": "deep-cut",
+      "moods": [
+        "horror",
+        "earnest"
+      ],
+      "tags": [
+        "turkey monster",
+        "chain-smoking narrator",
+        "anti-drug sermon"
+      ],
+      "headline": "Gobble Gobble. Repent.",
+      "blurb": "A biker becomes a turkey-headed monster in a sincere anti-drug Christian horror film. A narrator interrupts to smoke and muse about life. Indescribable.",
+      "imdbId": "tt0132888",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWY1ZTg4OGYtZGU0ZC00NGFjLWI2MzctZjZkNjBhMjdlYmZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 86,
+      "imdbRating": 3.6,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "house-of-the-dead",
+      "title": "House of the Dead",
+      "year": 2003,
+      "tier": "deep-cut",
+      "moods": [
+        "horror",
+        "action"
+      ],
+      "tags": [
+        "game footage cuts",
+        "bullet time",
+        "rave island"
+      ],
+      "headline": "Game Over. Insert Coin.",
+      "blurb": "Uwe Boll's zombie movie actually cuts in footage from the video game it adapts. Bullet-time spins, rave kids with heavy weaponry, and editing that defies comprehension.",
+      "imdbId": "tt0317676",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTE0MGQ0YjQtZTVmYy00OGY4LTg0NTQtMDgwYzNjODMzMzA1XkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
+      "runtime": 90,
+      "imdbRating": 2.1,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "jack-frost-1997",
+      "title": "Jack Frost",
+      "year": 1997,
+      "tier": "deep-cut",
+      "moods": [
+        "horror",
+        "creature"
+      ],
+      "tags": [
+        "killer snowman",
+        "puns",
+        "hair dryer peril"
+      ],
+      "headline": "Frosty's Evil Twin Has a Pun Problem.",
+      "blurb": "A serial killer reincarnated as a snowman terrorizes a small town while firing off one-liners. Snow-themed kills and practical effects that look like a craft project.",
+      "imdbId": "tt0116671",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjE4ZDAxNmItODBjMy00YjVlLTkwMDMtZjYxZWY0YmI4ZDczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "runtime": 89,
+      "imdbRating": 4.6,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "leprechaun-4",
+      "title": "Leprechaun 4: In Space",
+      "year": 1996,
+      "tier": "deep-cut",
+      "moods": [
+        "horror",
+        "sci-fi"
+      ],
+      "tags": [
+        "space sequel",
+        "Warwick Davis",
+        "giant leprechaun"
+      ],
+      "headline": "In Space, No One Can Hear You Rhyme.",
+      "blurb": "The franchise launches into the cosmos with space marines, a mad scientist, and rhyming one-liners. It doesn't care about logic and it's having the time of its life.",
+      "imdbId": "tt0116861",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTU2MTUxOTU0N15BMl5BanBnXkFtZTcwOTgzOTgxMQ@@._V1_SX300.jpg",
+      "runtime": 95,
+      "imdbRating": 3.5,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "jason-x",
+      "title": "Jason X",
+      "year": 2001,
+      "tier": "deep-cut",
+      "moods": [
+        "horror",
+        "sci-fi"
+      ],
+      "tags": [
+        "slasher in space",
+        "cyborg upgrade",
+        "VR campfire"
+      ],
+      "headline": "Camp Crystal Lake Goes Orbital.",
+      "blurb": "The hockey-masked slasher is frozen and thawed aboard a future spaceship. Over-the-top kills, android fighters, and one of the funniest virtual reality gags ever.",
+      "omdbId": "tt0211443",
+      "imdbId": "tt0211443",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDY4NWZhZmMtNDQwZi00MmZiLTllNTItYTRjN2FkYTU1MDVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "runtime": 92,
+      "imdbRating": 4.5,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "the-happening",
+      "title": "The Happening",
+      "year": 2008,
+      "tier": "deep-cut",
+      "moods": [
+        "horror",
+        "earnest"
+      ],
+      "tags": [
+        "houseplant chat",
+        "nature panic",
+        "Wahlberg confusion"
+      ],
+      "headline": "The Wind Is Coming. Run From It.",
+      "blurb": "A deadly-serious thriller where characters flee an invisible threat and Mark Wahlberg reasons with a houseplant. Every bewildered line delivery adds to the comedy.",
+      "imdbId": "tt0949731",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc2MjcwNjI0MF5BMl5BanBnXkFtZTcwMjM4NjM3MQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "runtime": 91,
+      "imdbRating": 5,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "zombie-nightmare",
+      "title": "Zombie Nightmare",
+      "year": 1987,
+      "tier": "deep-cut",
+      "moods": [
+        "horror"
+      ],
+      "tags": [
+        "baseball zombie",
+        "Adam West",
+        "metal soundtrack"
+      ],
+      "headline": "He Swings. He Shambles. He Seeks Revenge.",
+      "blurb": "A baseball-loving athlete returns from the dead with voodoo help to get revenge on teen bullies. Adam West shows up, the metal soundtrack rocks, and nothing quite connects.",
+      "imdbId": "tt0092297",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzI0Y2QwYTMtYWEwNi00MWUwLTllZjYtMGFlNmQxZmFlNTNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 89,
+      "imdbRating": 2.7,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "glen-or-glenda",
+      "title": "Glen or Glenda",
+      "year": 1953,
+      "tier": "deep-cut",
+      "moods": [
+        "earnest",
+        "weird"
+      ],
+      "tags": [
+        "Ed Wood sincerity",
+        "stock footage montage",
+        "Lugosi narrator"
+      ],
+      "headline": "Pull the String. Bela Insists.",
+      "blurb": "Ed Wood's personal plea for tolerance, told with stock footage stampedes and Bela Lugosi delivering ominous philosophy from a chair. Earnest, unusual, and strangely heartfelt.",
+      "imdbId": "tt0045826",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg3ODEzMl5BMl5BanBnXkFtZTgwMjMyNTc2MDE@._V1_SX300.jpg",
+      "runtime": 65,
+      "imdbRating": 4.2,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "reefer-madness",
+      "title": "Reefer Madness",
+      "year": 1936,
+      "tier": "deep-cut",
+      "moods": [
+        "earnest"
+      ],
+      "tags": [
+        "moral panic",
+        "frantic piano",
+        "PSA hysteria"
+      ],
+      "headline": "One Puff. Total Pandemonium.",
+      "blurb": "A 1930s scare film so hysterical that it became a cult comedy. Teens descend into madness with wild-eyed overacting while a stern principal lectures you directly.",
+      "imdbId": "tt0028346",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjhmYjVkN2QtODE0MS00MjlkLThjM2ItNWRiNjcxZDg5YmVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 66,
+      "imdbRating": 3.7,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "fateful-findings",
+      "title": "Fateful Findings",
+      "year": 2013,
+      "tier": "deep-cut",
+      "moods": [
+        "earnest",
+        "weird"
+      ],
+      "tags": [
+        "Neil Breen",
+        "laptop smashing",
+        "hacker messiah"
+      ],
+      "headline": "He Hacked the System. With Emotion.",
+      "blurb": "Neil Breen writes, directs and stars as a mystical hacker exposing corruption. Furniture gets thrown, laptops get destroyed, and every line is delivered with otherworldly conviction.",
+      "omdbId": "tt2332623",
+      "imdbId": "tt2332623",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzYyMDU3NDg3NV5BMl5BanBnXkFtZTgwODk1ODMxMTE@._V1_QL75_UX380_CR0,10,380,562_.jpg",
+      "runtime": 100,
+      "imdbRating": 4.2,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "double-down",
+      "title": "Double Down",
+      "year": 2005,
+      "tier": "deep-cut",
+      "moods": [
+        "earnest",
+        "weird"
+      ],
+      "tags": [
+        "Neil Breen",
+        "desert genius",
+        "taped-together tech"
+      ],
+      "headline": "The World's Greatest Agent Lives in His Car.",
+      "blurb": "Neil Breen plays a super-agent living in the desert, surrounded by laptops and talking about his own greatness. Sincere, baffling, and completely unlike anything else.",
+      "imdbId": "tt1561457",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjUwZjZhOWMtZTM4Yi00YTQ0LTk1ZTUtZjIwOTc2MThiNTk1XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 93,
+      "imdbRating": 4,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "valley-of-the-dolls",
+      "title": "Valley of the Dolls",
+      "year": 1967,
+      "tier": "deep-cut",
+      "moods": [
+        "earnest"
+      ],
+      "tags": [
+        "showbiz melodrama",
+        "wig fight",
+        "bathtub belting"
+      ],
+      "headline": "Showbiz Has Never Been This Shrill.",
+      "blurb": "A glossy Hollywood melodrama with oversized emotions, iconic catfights, and performances that swing for the rafters. Intended as serious drama, now a camp classic.",
+      "imdbId": "tt0062430",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWQxZmE0MTAtMjg5Zi00ODVmLWJhZTQtNDFmZGUyNjkzNGNjXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+      "runtime": 123,
+      "imdbRating": 6.1,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "glitter",
+      "title": "Glitter",
+      "year": 2001,
+      "tier": "deep-cut",
+      "moods": [
+        "earnest"
+      ],
+      "tags": [
+        "pop star vehicle",
+        "breathy romance",
+        "80s-ish club"
+      ],
+      "headline": "A Star Is Born. Sort Of.",
+      "blurb": "Mariah Carey's star vehicle is an earnest rags-to-riches music drama. The romance is flat, the clichés stack up, and the attempt at grit is hilariously polished.",
+      "imdbId": "tt0118589",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWI1ZDEzMDgtMGJmZC00MzE5LTkxODMtZThhMGU3NjlhYTMxXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg",
+      "runtime": 104,
+      "imdbRating": 2.5,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "rad",
+      "title": "Rad",
+      "year": 1986,
+      "tier": "deep-cut",
+      "moods": [
+        "earnest",
+        "action"
+      ],
+      "tags": [
+        "BMX dreams",
+        "bike dance",
+        "small-town stakes"
+      ],
+      "headline": "Helltrack Waits for No One.",
+      "blurb": "A paperboy dreams of winning a BMX race and must choose between that and his SATs. Includes a bike-dance at a school dance that is pure 80s sincerity.",
+      "imdbId": "tt0091817",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjg0NGI4YjgtYzgyZi00MjZkLTgxMjktOTg2YmJlNTI4MTdmXkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,562_.jpg",
+      "runtime": 93,
+      "imdbRating": 6.7,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "staying-alive",
+      "title": "Staying Alive",
+      "year": 1983,
+      "tier": "deep-cut",
+      "moods": [
+        "earnest",
+        "weird"
+      ],
+      "tags": [
+        "Stallone directs",
+        "Satan's Alley",
+        "sweaty stage show"
+      ],
+      "headline": "Broadway's Most Ambitious Abs.",
+      "blurb": "The disco sequel directed by Stallone builds to a Broadway show of sweaty, smoky interpretive dance. Every frame is about muscles and the finale is spectacularly overcooked.",
+      "imdbId": "tt0086361",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWQ3N2RjN2YtNzhhNS00ZDM0LWIwMTctZjdmNzIwYTM2M2QyXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "runtime": 93,
+      "imdbRating": 4.8,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "vampires-kiss",
+      "title": "Vampire's Kiss",
+      "year": 1988,
+      "tier": "deep-cut",
+      "moods": [
+        "earnest",
+        "horror",
+        "weird"
+      ],
+      "tags": [
+        "Nic Cage unleashed",
+        "alphabet meltdown",
+        "plastic fangs"
+      ],
+      "headline": "The Alphabet Was Never Safe.",
+      "blurb": "Nicolas Cage plays a literary agent convinced he's becoming a vampire, delivering one of the most unhinged performances on film. Strange accents and screaming abound.",
+      "imdbId": "tt0098577",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTM1MDAyMDYxMV5BMl5BanBnXkFtZTcwNDQwMzc3NA@@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime": 103,
+      "imdbRating": 6.1,
+      "ratingAsOf": "2026-11",
+      "omdbId": "tt0098577"
+    },
+    {
+      "id": "the-apple",
+      "title": "The Apple",
+      "year": 1980,
+      "tier": "deep-cut",
+      "moods": [
+        "weird"
+      ],
+      "tags": [
+        "disco dystopia",
+        "biblical musical",
+        "glitter overload"
+      ],
+      "headline": "The Future Is a Disco. Repent.",
+      "blurb": "A futuristic disco musical that turns into a biblical allegory. Wild costumes, wilder songs, and a plot that gets stranger with every number.",
+      "imdbId": "tt0080380",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGU1Y2NjYzktNWJiMi00NzA5LTk1NjEtZTJhYWI2YTRjYzdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 90,
+      "imdbRating": 4.3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "cant-stop-the-music",
+      "title": "Can't Stop the Music",
+      "year": 1980,
+      "tier": "deep-cut",
+      "moods": [
+        "weird"
+      ],
+      "tags": [
+        "Village People",
+        "YMCA spectacle",
+        "Guttenberg hustle"
+      ],
+      "headline": "The Disco Origin Story Nobody Asked For.",
+      "blurb": "A fictionalized origin of the Village People with Steve Guttenberg as an eager songwriter. Big numbers, bigger outfits, and an earnest tone that keeps it gloriously goofy.",
+      "imdbId": "tt0080492",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmY1Y2FlZDItMjU5OC00YTM1LWE4Y2QtYTFmZTJlOTMzMTgzXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 124,
+      "imdbRating": 4.2,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "from-justin-to-kelly",
+      "title": "From Justin to Kelly",
+      "year": 2003,
+      "tier": "deep-cut",
+      "moods": [
+        "weird"
+      ],
+      "tags": [
+        "Idol musical",
+        "spring break romance",
+        "hovercraft"
+      ],
+      "headline": "Spring Break. Spontaneous Singing.",
+      "blurb": "A musical spun off from a singing competition, set during spring break in Florida. Characters burst into song, dance on the beach, and get chased by rules-obsessed rivals.",
+      "imdbId": "tt0339034",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTUzM2FhYjYtNzZiMi00ZDNhLWFkYzItNTBjZGQ0ODZiZDNkXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "runtime": 81,
+      "imdbRating": 1.9,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "sgt-peppers",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 1978,
+      "tier": "deep-cut",
+      "moods": [
+        "weird"
+      ],
+      "tags": [
+        "no dialogue",
+        "Bee Gees",
+        "rock opera"
+      ],
+      "headline": "All the Songs. None of the Sense.",
+      "blurb": "A wordless rock musical starring the Bee Gees and Peter Frampton, narrated by George Burns. Celebrity cameos, cartoonish villains, and covers in wild new contexts.",
+      "imdbId": "tt0078239",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzNmYzAyNzQtZDllNS00YzE4LTk2MWUtZThiYTZlZWY1OTU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "runtime": 113,
+      "imdbRating": 4.3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "howard-the-duck",
+      "title": "Howard the Duck",
+      "year": 1986,
+      "tier": "deep-cut",
+      "moods": [
+        "weird",
+        "sci-fi"
+      ],
+      "tags": [
+        "duck from space",
+        "animatronic fowl",
+        "rock band"
+      ],
+      "headline": "He's a Duck. He's From Space. Deal With It.",
+      "blurb": "A big-budget production about a duck pulled from his planet to Cleveland. The animatronic suit is weird, the romance is weirder, and the finale veers into monster mayhem.",
+      "imdbId": "tt0091225",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTA4ZjJkZjQtNzMwMy00YjJjLTkwYzgtZDY0YmNhZjYzMGExXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime": 110,
+      "imdbRating": 4.8,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "theodore-rex",
+      "title": "Theodore Rex",
+      "year": 1995,
+      "tier": "deep-cut",
+      "moods": [
+        "weird",
+        "sci-fi"
+      ],
+      "tags": [
+        "dinosaur detective",
+        "Whoopi Goldberg",
+        "rubber suit"
+      ],
+      "headline": "The Partner Is a Dinosaur. The Case Is Bananas.",
+      "blurb": "A tough cop gets paired with a giant dinosaur detective in a future city. The costume is clunky, the tone is kid-friendly noir, and it's never boring.",
+      "imdbId": "tt0114658",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzQ4NGIwMjItYzhkNC00ZTI0LWI0YWMtYzgxZDE2ZWViYzRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 92,
+      "imdbRating": 2.4,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "foodfight",
+      "title": "Foodfight!",
+      "year": 2012,
+      "tier": "deep-cut",
+      "moods": [
+        "weird"
+      ],
+      "tags": [
+        "uncanny animation",
+        "mascot war",
+        "brand overload"
+      ],
+      "headline": "The Supermarket Never Sleeps.",
+      "blurb": "A long-delayed animated film where grocery mascots battle in a supermarket after hours. Stiff animation and odd jokes make every scene feel subtly wrong.",
+      "imdbId": "tt0249516",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYwMDY1MDI0NV5BMl5BanBnXkFtZTgwODAyODk3NzE@._V1_SX300.jpg",
+      "runtime": 91,
+      "imdbRating": 1.3,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "kazaam",
+      "title": "Kazaam",
+      "year": 1996,
+      "tier": "deep-cut",
+      "moods": [
+        "weird"
+      ],
+      "tags": [
+        "rapping genie",
+        "Shaq",
+        "boombox origin"
+      ],
+      "headline": "Three Wishes. Several Raps.",
+      "blurb": "Shaquille O'Neal plays a rapping genie who bonds with a kid. Musical interludes, goofy magic and a friendly charm make it a nostalgic so-bad-it's-good night.",
+      "imdbId": "tt0116756",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzMzMWY2NjgtZjU3NS00MDA0LTlkZTEtZWE4MzFiNzRhYjE1XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "runtime": 93,
+      "imdbRating": 3.2,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "breakin-2",
+      "title": "Breakin' 2: Electric Boogaloo",
+      "year": 1984,
+      "tier": "deep-cut",
+      "moods": [
+        "weird",
+        "earnest"
+      ],
+      "tags": [
+        "save the rec center",
+        "ceiling dance",
+        "neon breaking"
+      ],
+      "headline": "The Rec Center Needs You. Dance.",
+      "blurb": "Breakdancers fight to save a community center from developers. Every problem is solved by dance, including a famous number on the walls and ceiling.",
+      "imdbId": "tt0086999",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDA5ODE4NmMtYTQ1MS00YWU1LTg3YTktYTA1M2NkNGJhZjk2XkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
+      "runtime": 94,
+      "imdbRating": 5.2,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "hercules-in-new-york",
+      "title": "Hercules in New York",
+      "year": 1970,
+      "tier": "deep-cut",
+      "moods": [
+        "weird"
+      ],
+      "tags": [
+        "dubbed Arnold",
+        "Olympus in a park",
+        "chariot chase"
+      ],
+      "headline": "A God Walks Into Manhattan.",
+      "blurb": "Arnold Schwarzenegger's first film, with his lines dubbed over and Olympus filmed in a city park. The fish-out-of-water comedy includes a chariot chase through traffic.",
+      "omdbId": "tt0065832",
+      "imdbId": "tt0065832",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzI4MjAxMWYtYTg0ZC00MWEzLTliYzMtMTBiYmM5ZDIzMTRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg",
+      "runtime": 92,
+      "imdbRating": 3.4,
+      "ratingAsOf": "2026-11"
+    },
+    {
+      "id": "wild-world-of-batwoman",
+      "title": "The Wild World of Batwoman",
+      "year": 1966,
+      "tier": "deep-cut",
+      "moods": [
+        "weird"
+      ],
+      "tags": [
+        "go-go superheroine",
+        "atomic hearing aid",
+        "dance breaks"
+      ],
+      "headline": "Fight Crime. Then Do the Watusi.",
+      "blurb": "A superheroine and her go-go dancing sidekicks battle a mad scientist. The film stops for dance numbers constantly and the plot is mostly about a hearing aid.",
+      "imdbId": "tt0061191",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmQ2ZTI3YzYtMWE0ZS00Njg2LWI0ZWUtOWRmMmZjY2Q4MjYzXkEyXkFqcGc@._V1_UX600_.jpg",
+      "runtime": 70,
+      "imdbRating": 1.8,
+      "ratingAsOf": "2026-11",
+      "omdbId": "tt0061191",
+      "posterOverride": "https://m.media-amazon.com/images/M/MV5BZmQ2ZTI3YzYtMWE0ZS00Njg2LWI0ZWUtOWRmMmZjY2Q4MjYzXkEyXkFqcGc@._V1_UX600_.jpg"
+    },
+    {
+      "id": "hell-comes-to-frogtown",
+      "title": "Hell Comes to Frogtown",
+      "year": 1988,
+      "tier": "deep-cut",
+      "moods": [
+        "sci-fi",
+        "creature"
+      ],
+      "tags": [
+        "frog mutants",
+        "Roddy Piper",
+        "wasteland mission"
+      ],
+      "headline": "The Wasteland Has a Frog Problem.",
+      "blurb": "Wrestler Roddy Piper wanders a post-apocalyptic desert on a mission that leads straight into a town of rubber-masked frog people. Cheap, cheeky and completely committed.",
+      "imdbId": "tt0093171",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGMwZDMxN2EtODI5NC00ZDU1LTg0ZjItZDVlZTRjMjg4OWVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime": 86,
+      "imdbRating": 5.5,
+      "ratingAsOf": "2026-11"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "midnight-video",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "resolve": "node scripts/resolve.js"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.0"
+  }
+}
